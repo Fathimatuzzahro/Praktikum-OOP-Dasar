@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=rocket2
+comment0.text=\r\n\ Class\ rocket2\ sebagai\ peran\ pahlawan.\r\n\ \r\n\ @author\ (fathimatuzzahro)\ \r\n\ @version\ (v1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=rentangMaju
+comment2.target=void\ maju(int)
+comment2.text=\r\n\ operasi\ maju\ dan\ bergeser\r\n
+comment3.params=
+comment3.target=int\ getMaju()
+numComments=4

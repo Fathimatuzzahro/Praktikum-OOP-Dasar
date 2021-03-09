@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=balon2
+comment0.text=\r\n\ Balon\ adalah\ musuh\ yang\ harus\ ditabrak.\r\n\ \r\n\ @author\ (fathimatuzzahro)\ \r\n\ @version\ (v1.2)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ balon2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ turnRandom()
+comment2.text=\r\n\ operasi\ balon\ berputar\r\n
+numComments=3
